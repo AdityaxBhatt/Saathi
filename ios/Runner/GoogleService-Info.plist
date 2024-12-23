@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>344809016028-pq2eerd5oshc6qdgf90uqi9o4a2rju2u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.344809016028-pq2eerd5oshc6qdgf90uqi9o4a2rju2u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>344809016028-ho5j4r2pc9haotlek1jpue3i40kch7ut.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0VeAXLLkEE38z_YN66N9hQgyz2Y-At2c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>344809016028</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.saathi</string>
+	<key>PROJECT_ID</key>
+	<string>saathiapp-b21d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>saathiapp-b21d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:344809016028:ios:abb9cf92801f4fe2b20219</string>
+</dict>
+</plist>
