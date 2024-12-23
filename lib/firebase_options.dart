@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDKZRiU9cGACpQ0w_hPy3ocVGJZ-qGsHyc',
+
     appId: '1:344809016028:web:d28d2cb1601e0ce0b20219',
     messagingSenderId: '344809016028',
     projectId: 'saathiapp-b21d8',
@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB3uPNGdknqc3zLCpJV1Xr986r2bOFxApw',
+
     appId: '1:344809016028:android:8f071d2e0d430e8cb20219',
     messagingSenderId: '344809016028',
     projectId: 'saathiapp-b21d8',
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB0VeAXLLkEE38z_YN66N9hQgyz2Y-At2c',
+
     appId: '1:344809016028:ios:abb9cf92801f4fe2b20219',
     messagingSenderId: '344809016028',
     projectId: 'saathiapp-b21d8',
@@ -72,7 +72,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB0VeAXLLkEE38z_YN66N9hQgyz2Y-At2c',
+
     appId: '1:344809016028:ios:9f0d9c6f4fa169b2b20219',
     messagingSenderId: '344809016028',
     projectId: 'saathiapp-b21d8',
